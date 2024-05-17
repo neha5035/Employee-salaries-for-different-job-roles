@@ -2,6 +2,8 @@
 
 The primary objective of this project is to provide valuable insights into the compensation and job roles of employees across various industries and regions.
 
+Tools used: Microsoft Excel, Microsoft Power BI
+
 Steps includes:
 1. Data Cleaning
 2. Data Processing
